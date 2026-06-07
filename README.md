@@ -61,7 +61,8 @@ Predict freight cost using:
 - Improved procurement planning
 - Vendor cost negotiation support
 - Freight cost optimization
-
+  
+![Dashboard](https://github.com/rhanand01/Vendor_Invoice_Intelligent_System/blob/main/images/freight_cost.png)
 ---
 
 ## Invoice Risk Flagging
@@ -76,7 +77,8 @@ Predict whether an invoice should be flagged for approval review.
 - Reduce financial risk
 - Improve audit efficiency
 - Reduce manual verification effort
-
+  
+![Dashboard](https://github.com/rhanand01/Vendor_Invoice_Intelligent_System/blob/main/images/invoice_approval_flag.png)
 ---
 
 # Data Sources
