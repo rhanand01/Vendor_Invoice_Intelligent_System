@@ -62,7 +62,7 @@ Predict freight cost using:
 - Vendor cost negotiation support
 - Freight cost optimization
   
-![Dashboard](https://github.com/rhanand01/Vendor_Invoice_Intelligent_System/blob/main/images/freight_cost.png)
+<!-- ![Dashboard](https://github.com/rhanand01/Vendor_Invoice_Intelligent_System/blob/main/images/freight_cost.png) -->
 ---
 
 ## Invoice Risk Flagging
